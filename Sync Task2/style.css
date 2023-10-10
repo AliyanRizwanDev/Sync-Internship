@@ -1,0 +1,45 @@
+* {
+  font-family: "Tilt Warp", cursive;
+  color: white;
+}
+body {
+  background-image: url(https://i.gifer.com/Cwgf.gif);
+}
+#quizForm{
+  margin: auto;
+  margin: 5%;
+  margin-top: 5%;
+  font-size: 30px;
+  text-align:left;
+  background-color: rgb(55, 46, 46);
+  width: 90%;
+  border-radius: 50px;
+  box-shadow: 10px 10px 30px black;
+  
+}
+ol{
+  padding: 5%;
+  padding-left: 10%;
+}
+.head{
+  padding-top: 3%;
+  text-decoration: underline;
+  font-weight: bold   ;
+}
+.sub-btn{
+  font-size: 50px;
+  margin-bottom: 5%;
+}
+.m-b-color{
+  background-color: rgb(55, 46, 46);
+
+}
+.cong {
+  font-size: 25px;
+  font-weight: bold;
+
+}
+#score{
+  font-size: 60px;
+  margin: 30px;
+}
